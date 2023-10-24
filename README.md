@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Eu sou IgorEncarnação Junqueira Castro</h2>
+<h2 align="left">Olá👋! Eu sou Igor Encarnação Junqueira Castro</h2>
 
 - 🔭 Hoje Trabalho com Backend
 - 🌱 Estudando Java
