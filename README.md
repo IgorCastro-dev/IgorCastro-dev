@@ -1,4 +1,12 @@
-<h2 align="left">Oi 👋! Eu sou IgorEncarnação Junqueira Castro</h2>
+<h2 align="left">Olá👋! Eu sou IgorEncarnação Junqueira Castro</h2>
+
+- 🔭 Hoje Trabalho com Backend
+- 🌱 Estudando Java
+- 🔗 Linkedin: https://www.linkedin.com/in/igor-encarna%C3%A7%C3%A3o-junqueira-castro-93bbb81ba/
+- 📲 Telefone e WhatsApp: (21) 98403-3281
+- 📧 E-mail: igorjunqueira19@gmail.com
+- 🌐 Site de Portfólio: https://igor-castro.vercel.app/
+- 😄 Pronouns: ele/dele
 
 ###
 
