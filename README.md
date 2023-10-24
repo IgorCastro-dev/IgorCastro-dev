@@ -55,6 +55,8 @@
   <a href="https://contate.me/igor-castro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
+
+  ![Snake animation](https://github.com/IgorCastro-dev/IgorCastro-dev/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
 ###
