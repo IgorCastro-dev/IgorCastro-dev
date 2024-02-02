@@ -2,7 +2,6 @@
 
 - 🔭 Hoje Trabalho com Backend
 - 🌱 Estudando Java
-- 🌐 Site de Portfólio: https://igor-castro.vercel.app/
 - 😄 Pronouns: ele/dele
 
 ###
